@@ -1,6 +1,23 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# PathFinder AI
+
+PathFinder AI is an intelligent tool that helps students find the best university programs and internships using AI-driven recommendations.
+
+## Environment Setup
+
+To run this project, you need to set up your environment variables. 
+
+1.  **Create a `.env.local` file** in the root directory.
+2.  **Copy the contents** of `.env.example` into `.env.local`.
+3.  **Fill in your API keys**:
+    *   `GOOGLE_GENERATIVE_AI_API_KEY`: Get your free key from [Google AI Studio](https://aistudio.google.com/).
+    *   `NEXT_PUBLIC_SUPABASE_URL` & `NEXT_PUBLIC_SUPABASE_ANON_KEY`: Found in your [Supabase Dashboard](https://supabase.com/) under Project Settings > API.
+    *   `EMBED_SECRET_KEY`: A random string for internal security (ask the project lead if you need a specific one).
+
+> [!IMPORTANT]
+> Never commit your `.env.local` file to GitHub. It is already included in `.gitignore`.
 
 ## Getting Started
+
 
 First, run the development server:
 
