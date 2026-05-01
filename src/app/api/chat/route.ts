@@ -35,15 +35,23 @@ Great! I have enough information. Let me find the best options for you.
 }
 </profile>`;
 
+    if (!process.env.GOOGLE_GENERATIVE_AI_API_KEY) {
+      console.error("GOOGLE_GENERATIVE_AI_API_KEY is missing in environment variables");
+      return new Response("AI configuration missing", { status: 500 });
+    }
+
     const result = streamText({
-      model: google("gemini-1.5-flash"),
+      model: google("gemini-flash-lite-latest"),
       messages,
       system: systemPrompt,
     });
 
     return result.toTextStreamResponse();
-  } catch (error) {
-    console.error("Chat API Error:", error);
-    return new Response("Error processing your request", { status: 500 });
+  } catch (error: any) {
+    console.error("Chat API Error:", error.message || error);
+    return new Response(JSON.stringify({ error: error.message || "Error processing request" }), { 
+      status: 500,
+      headers: { 'Content-Type': 'application/json' }
+    });
   }
 }
