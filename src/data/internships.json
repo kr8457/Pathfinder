@@ -1,0 +1,633 @@
+[
+  {
+    "id": "sap-intern",
+    "company": "SAP SE",
+    "role": "Software Developer Intern",
+    "location": "Walldorf, Germany",
+    "country": "Germany",
+    "duration": "6 months",
+    "stipend": 1500,
+    "currency": "EUR",
+    "fields": [
+      "Computer Science",
+      "Software Engineering",
+      "Business IT"
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "SAP HANA",
+      "Cloud"
+    ],
+    "deadline": "Rolling",
+    "website": "https://jobs.sap.com/students",
+    "description": "Work on SAP's enterprise software solutions used by 80% of the world's largest companies. Offers full-time conversion and relocation support.",
+    "tags": [
+      "Germany",
+      "tech",
+      "enterprise",
+      "paid",
+      "conversion"
+    ]
+  },
+  {
+    "id": "siemens-intern",
+    "company": "Siemens AG",
+    "role": "Engineering Intern",
+    "location": "Munich, Germany",
+    "country": "Germany",
+    "duration": "3-6 months",
+    "stipend": 1200,
+    "currency": "EUR",
+    "fields": [
+      "Electrical Engineering",
+      "Computer Science",
+      "Mechanical Engineering"
+    ],
+    "skills": [
+      "Embedded Systems",
+      "IoT",
+      "Python",
+      "MATLAB"
+    ],
+    "deadline": "Rolling",
+    "website": "https://new.siemens.com/global/en/company/jobs/students.html",
+    "description": "Join Siemens on cutting-edge projects in automation, electrification, and digitalization across multiple divisions.",
+    "tags": [
+      "Germany",
+      "engineering",
+      "IoT",
+      "paid",
+      "global"
+    ]
+  },
+  {
+    "id": "fraunhofer-intern",
+    "company": "Fraunhofer Society",
+    "role": "Research Intern",
+    "location": "Multiple Locations, Germany",
+    "country": "Germany",
+    "duration": "3-6 months",
+    "stipend": 1000,
+    "currency": "EUR",
+    "fields": [
+      "Computer Science",
+      "AI",
+      "Electrical Engineering",
+      "Biotech"
+    ],
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Research",
+      "Deep Learning"
+    ],
+    "deadline": "Rolling",
+    "website": "https://www.fraunhofer.de/en/jobs-and-careers.html",
+    "description": "Europe's largest applied research organization with 74 institutes. Perfect for students interested in R&D bridging academia and industry.",
+    "tags": [
+      "Germany",
+      "research",
+      "AI",
+      "R&D",
+      "academia"
+    ]
+  },
+  {
+    "id": "bmw-intern",
+    "company": "BMW Group",
+    "role": "Software & AI Intern",
+    "location": "Munich, Germany",
+    "country": "Germany",
+    "duration": "6 months",
+    "stipend": 1400,
+    "currency": "EUR",
+    "fields": [
+      "Computer Science",
+      "AI",
+      "Automotive Engineering"
+    ],
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "Computer Vision",
+      "C++"
+    ],
+    "deadline": "March 31",
+    "website": "https://www.bmwgroup.com/en/career/students.html",
+    "description": "Work on autonomous driving, digital car features, and AI projects at the heart of the automotive industry revolution.",
+    "tags": [
+      "Germany",
+      "automotive",
+      "AI",
+      "autonomous-driving",
+      "paid"
+    ]
+  },
+  {
+    "id": "careem-intern",
+    "company": "Careem (Uber subsidiary)",
+    "role": "Software Engineering Intern",
+    "location": "Dubai, UAE",
+    "country": "UAE",
+    "duration": "3 months",
+    "stipend": 3000,
+    "currency": "AED",
+    "fields": [
+      "Computer Science",
+      "Software Engineering"
+    ],
+    "skills": [
+      "Go",
+      "Python",
+      "Microservices",
+      "Mobile Development"
+    ],
+    "deadline": "Rolling",
+    "website": "https://www.careem.com/en-ae/careers",
+    "description": "The Middle East's super-app, now part of Uber. Great for Pakistani students in UAE with strong software engineering culture and high pay.",
+    "tags": [
+      "UAE",
+      "startup",
+      "MENA",
+      "Pakistani-friendly",
+      "mobile"
+    ]
+  },
+  {
+    "id": "mckinsey-intern",
+    "company": "McKinsey & Company",
+    "role": "Business Analyst Intern",
+    "location": "Dubai, UAE",
+    "country": "UAE",
+    "duration": "2 months (Summer)",
+    "stipend": 5000,
+    "currency": "AED",
+    "fields": [
+      "Business",
+      "Economics",
+      "Computer Science",
+      "Engineering"
+    ],
+    "skills": [
+      "Problem Solving",
+      "Data Analysis",
+      "Excel",
+      "Presentation"
+    ],
+    "deadline": "October 15",
+    "website": "https://www.mckinsey.com/careers/students",
+    "description": "One of the world's most prestigious consulting internships with offices in Dubai serving the entire Middle East region.",
+    "tags": [
+      "UAE",
+      "consulting",
+      "business",
+      "prestigious",
+      "high-pay"
+    ]
+  },
+  {
+    "id": "shopify-intern",
+    "company": "Shopify",
+    "role": "Software Engineering Intern (Remote/Canada)",
+    "location": "Ottawa, Canada (Remote)",
+    "country": "Canada",
+    "duration": "4 months",
+    "stipend": 6000,
+    "currency": "CAD",
+    "fields": [
+      "Computer Science",
+      "Software Engineering"
+    ],
+    "skills": [
+      "Ruby on Rails",
+      "React",
+      "GraphQL",
+      "Cloud Infrastructure"
+    ],
+    "deadline": "January 31",
+    "website": "https://www.shopify.com/careers/internships",
+    "description": "One of Canada's top tech employers offering fully remote internships with some of the highest intern salaries in Canada.",
+    "tags": [
+      "Canada",
+      "remote",
+      "e-commerce",
+      "high-pay",
+      "tech"
+    ]
+  },
+  {
+    "id": "google-intern",
+    "company": "Google",
+    "role": "Software Engineering Intern",
+    "location": "London, UK",
+    "country": "UK",
+    "duration": "3 months (Summer)",
+    "stipend": 5500,
+    "currency": "GBP",
+    "fields": [
+      "Computer Science",
+      "Software Engineering",
+      "Mathematics"
+    ],
+    "skills": [
+      "C++",
+      "Python",
+      "Java",
+      "Algorithms",
+      "Data Structures"
+    ],
+    "deadline": "November 1",
+    "website": "https://careers.google.com/students",
+    "description": "Work on real Google products used by billions. Highly competitive with world-class mentorship, free meals, and strong full-time conversion rate.",
+    "tags": [
+      "UK",
+      "tech",
+      "prestigious",
+      "paid",
+      "conversion"
+    ]
+  },
+  {
+    "id": "deepmind-intern",
+    "company": "Google DeepMind",
+    "role": "Research Engineering Intern",
+    "location": "London, UK",
+    "country": "UK",
+    "duration": "3-6 months",
+    "stipend": 4500,
+    "currency": "GBP",
+    "fields": [
+      "Computer Science",
+      "AI",
+      "Mathematics",
+      "Cognitive Science"
+    ],
+    "skills": [
+      "Python",
+      "JAX",
+      "PyTorch",
+      "Machine Learning",
+      "Research"
+    ],
+    "deadline": "Rolling",
+    "website": "https://deepmind.google/careers",
+    "description": "One of the world's leading AI research labs. Work alongside researchers advancing state-of-the-art in reinforcement learning, protein folding, and AGI safety.",
+    "tags": [
+      "UK",
+      "AI",
+      "research",
+      "prestigious",
+      "academia"
+    ]
+  },
+  {
+    "id": "arm-intern",
+    "company": "Arm Holdings",
+    "role": "Chip Design Intern",
+    "location": "Cambridge, UK",
+    "country": "UK",
+    "duration": "12 months (Industrial Placement)",
+    "stipend": 2200,
+    "currency": "GBP",
+    "fields": [
+      "Electrical Engineering",
+      "Computer Engineering",
+      "Computer Science"
+    ],
+    "skills": [
+      "VHDL",
+      "Verilog",
+      "C",
+      "RTL Design",
+      "RISC-V"
+    ],
+    "deadline": "October 31",
+    "website": "https://careers.arm.com/students",
+    "description": "Design the chips that power 99% of the world's smartphones. Arm's year-long placements offer unmatched hardware experience in the heart of Cambridge tech cluster.",
+    "tags": [
+      "UK",
+      "hardware",
+      "semiconductors",
+      "paid",
+      "engineering"
+    ]
+  },
+  {
+    "id": "spotify-intern",
+    "company": "Spotify",
+    "role": "Backend Engineering Intern",
+    "location": "Stockholm, Sweden",
+    "country": "Sweden",
+    "duration": "6 months",
+    "stipend": 20000,
+    "currency": "SEK",
+    "fields": [
+      "Computer Science",
+      "Software Engineering"
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "Kafka",
+      "Microservices",
+      "Cloud"
+    ],
+    "deadline": "January 15",
+    "website": "https://www.lifeatspotify.com/students",
+    "description": "Build systems that serve 600M+ users. Spotify's Stockholm HQ offers a creative, engineering-forward culture with strong intern-to-fulltime pipelines.",
+    "tags": [
+      "Sweden",
+      "tech",
+      "music",
+      "paid",
+      "Scandinavia"
+    ]
+  },
+  {
+    "id": "ericsson-intern",
+    "company": "Ericsson",
+    "role": "5G Network Engineering Intern",
+    "location": "Stockholm, Sweden",
+    "country": "Sweden",
+    "duration": "6 months",
+    "stipend": 18000,
+    "currency": "SEK",
+    "fields": [
+      "Electrical Engineering",
+      "Computer Science",
+      "Telecommunications"
+    ],
+    "skills": [
+      "5G",
+      "C++",
+      "Network Protocols",
+      "Python",
+      "Linux"
+    ],
+    "deadline": "Rolling",
+    "website": "https://www.ericsson.com/en/careers/students",
+    "description": "Work on cutting-edge 5G and IoT infrastructure deployed worldwide. Excellent for telecom-focused engineers wanting global network experience.",
+    "tags": [
+      "Sweden",
+      "telecom",
+      "5G",
+      "paid",
+      "engineering"
+    ]
+  },
+  {
+    "id": "asml-intern",
+    "company": "ASML",
+    "role": "Mechatronics / Software Intern",
+    "location": "Eindhoven, Netherlands",
+    "country": "Netherlands",
+    "duration": "6 months",
+    "stipend": 1600,
+    "currency": "EUR",
+    "fields": [
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Computer Science"
+    ],
+    "skills": [
+      "C++",
+      "Python",
+      "Control Systems",
+      "MATLAB",
+      "Mechatronics"
+    ],
+    "deadline": "Rolling",
+    "website": "https://www.asml.com/en/careers/students",
+    "description": "ASML makes the machines that make the chips. A monopoly in EUV lithography, this is the most critical company in the global semiconductor supply chain.",
+    "tags": [
+      "Netherlands",
+      "semiconductors",
+      "hardware",
+      "paid",
+      "high-impact"
+    ]
+  },
+  {
+    "id": "philips-intern",
+    "company": "Philips",
+    "role": "Data Science Intern — Health Tech",
+    "location": "Amsterdam, Netherlands",
+    "country": "Netherlands",
+    "duration": "6 months",
+    "stipend": 1400,
+    "currency": "EUR",
+    "fields": [
+      "Computer Science",
+      "Biomedical Engineering",
+      "Data Science"
+    ],
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Healthcare Data",
+      "SQL",
+      "Power BI"
+    ],
+    "deadline": "Rolling",
+    "website": "https://www.philips.com/a-w/careers/student-opportunities.html",
+    "description": "Apply AI to real healthcare challenges at one of the world's leading health technology companies. Projects span radiology AI, patient monitoring, and diagnostics.",
+    "tags": [
+      "Netherlands",
+      "health-tech",
+      "AI",
+      "paid",
+      "biomedical"
+    ]
+  },
+  {
+    "id": "microsoft-india-intern",
+    "company": "Microsoft",
+    "role": "Software Engineering Intern",
+    "location": "Hyderabad, India",
+    "country": "India",
+    "duration": "2 months (Summer)",
+    "stipend": 80000,
+    "currency": "INR",
+    "fields": [
+      "Computer Science",
+      "Software Engineering"
+    ],
+    "skills": [
+      "C#",
+      "Azure",
+      "TypeScript",
+      "Distributed Systems",
+      "APIs"
+    ],
+    "deadline": "September 30",
+    "website": "https://careers.microsoft.com/students/us/en/india-intern",
+    "description": "One of India's most sought-after internships with strong full-time offers. Work on Azure cloud products and Microsoft 365 with world-class engineering mentors.",
+    "tags": [
+      "India",
+      "tech",
+      "cloud",
+      "prestigious",
+      "paid"
+    ]
+  },
+  {
+    "id": "grab-intern",
+    "company": "Grab",
+    "role": "Software Engineering Intern",
+    "location": "Singapore",
+    "country": "Singapore",
+    "duration": "3-6 months",
+    "stipend": 2500,
+    "currency": "SGD",
+    "fields": [
+      "Computer Science",
+      "Software Engineering"
+    ],
+    "skills": [
+      "Go",
+      "Kotlin",
+      "Microservices",
+      "AWS",
+      "Mobile"
+    ],
+    "deadline": "Rolling",
+    "website": "https://grab.careers/students",
+    "description": "Southeast Asia's leading super-app covering rides, food, and fintech. Competitive pay, fast-paced engineering culture, and strong regional impact.",
+    "tags": [
+      "Singapore",
+      "startup",
+      "super-app",
+      "SEA",
+      "paid"
+    ]
+  },
+  {
+    "id": "dso-intern",
+    "company": "DSO National Laboratories",
+    "role": "Research Intern — Defence Tech",
+    "location": "Singapore",
+    "country": "Singapore",
+    "duration": "3-6 months",
+    "stipend": 2000,
+    "currency": "SGD",
+    "fields": [
+      "Computer Science",
+      "Electrical Engineering",
+      "Cybersecurity"
+    ],
+    "skills": [
+      "C++",
+      "Python",
+      "Signal Processing",
+      "Cybersecurity",
+      "AI"
+    ],
+    "deadline": "Rolling",
+    "website": "https://www.dso.org.sg/careers/internship",
+    "description": "Singapore's national defence R&D organisation. Work on cutting-edge classified and unclassified defence technology projects with access to advanced labs.",
+    "tags": [
+      "Singapore",
+      "defence",
+      "research",
+      "R&D",
+      "security"
+    ]
+  },
+  {
+    "id": "samsung-intern",
+    "company": "Samsung Electronics",
+    "role": "AI / ML Research Intern",
+    "location": "Seoul, South Korea",
+    "country": "South Korea",
+    "duration": "3-6 months",
+    "stipend": 2500000,
+    "currency": "KRW",
+    "fields": [
+      "Computer Science",
+      "AI",
+      "Electrical Engineering"
+    ],
+    "skills": [
+      "PyTorch",
+      "On-device AI",
+      "C++",
+      "Python",
+      "Edge Computing"
+    ],
+    "deadline": "Rolling",
+    "website": "https://careers.samsung.com/internship",
+    "description": "Work on AI research powering Galaxy devices and semiconductor products. Samsung's global HQ offers immersive exposure to consumer tech at scale.",
+    "tags": [
+      "South Korea",
+      "AI",
+      "consumer-tech",
+      "hardware",
+      "paid"
+    ]
+  },
+  {
+    "id": "nestle-intern",
+    "company": "Nestlé",
+    "role": "Digital & Technology Intern",
+    "location": "Vevey, Switzerland",
+    "country": "Switzerland",
+    "duration": "6 months",
+    "stipend": 2800,
+    "currency": "CHF",
+    "fields": [
+      "Computer Science",
+      "Business IT",
+      "Data Science"
+    ],
+    "skills": [
+      "Python",
+      "SAP",
+      "Power BI",
+      "Data Analytics",
+      "Agile"
+    ],
+    "deadline": "Rolling",
+    "website": "https://www.nestle.com/jobs/students-graduates",
+    "description": "One of the world's largest food companies undergoing major digital transformation. High stipend, great work-life balance, and HQ located on Lake Geneva.",
+    "tags": [
+      "Switzerland",
+      "FMCG",
+      "digital-transformation",
+      "high-stipend",
+      "paid"
+    ]
+  },
+  {
+    "id": "ibm-research-intern",
+    "company": "IBM Research",
+    "role": "Quantum Computing Research Intern",
+    "location": "Zurich, Switzerland",
+    "country": "Switzerland",
+    "duration": "3-6 months",
+    "stipend": 3000,
+    "currency": "CHF",
+    "fields": [
+      "Computer Science",
+      "Physics",
+      "Mathematics"
+    ],
+    "skills": [
+      "Qiskit",
+      "Python",
+      "Linear Algebra",
+      "Quantum Algorithms",
+      "Research"
+    ],
+    "deadline": "Rolling",
+    "website": "https://research.ibm.com/careers",
+    "description": "IBM Research Zurich is home to two Nobel Prize winners. Work on quantum computing hardware and algorithms at one of the world's most prestigious industrial research labs.",
+    "tags": [
+      "Switzerland",
+      "quantum-computing",
+      "research",
+      "prestigious",
+      "academia"
+    ]
+  }
+]

@@ -1,0 +1,1703 @@
+[
+  {
+    "id": "tum",
+    "name": "Technical University of Munich",
+    "country": "Germany",
+    "city": "Munich",
+    "tuitionPerYear": 0,
+    "currency": "EUR",
+    "ieltsMin": 6.5,
+    "fields": [
+      "Computer Science",
+      "Engineering",
+      "Robotics",
+      "AI"
+    ],
+    "programs": [
+      "MSc Computer Science",
+      "MSc Electrical Engineering",
+      "MSc Robotics"
+    ],
+    "ranking": 50,
+    "acceptanceRate": 8,
+    "deadline": "January 15",
+    "website": "https://www.tum.de",
+    "scholarships": [
+      "DAAD Scholarship",
+      "Deutschland Stipendium"
+    ],
+    "description": "One of Europe's top technical universities with world-class research facilities and no tuition fees for international students.",
+    "tags": [
+      "no-tuition",
+      "research",
+      "engineering",
+      "Germany"
+    ]
+  },
+  {
+    "id": "rwth",
+    "name": "RWTH Aachen University",
+    "country": "Germany",
+    "city": "Aachen",
+    "tuitionPerYear": 0,
+    "currency": "EUR",
+    "ieltsMin": 6.5,
+    "fields": [
+      "Engineering",
+      "Computer Science",
+      "Mechanical Engineering"
+    ],
+    "programs": [
+      "MSc Computer Science",
+      "MSc Mechanical Engineering",
+      "MSc Electrical Engineering"
+    ],
+    "ranking": 100,
+    "acceptanceRate": 12,
+    "deadline": "December 31",
+    "website": "https://www.rwth-aachen.de",
+    "scholarships": [
+      "DAAD Scholarship"
+    ],
+    "description": "Germany's largest technical university, renowned for engineering and close industry partnerships with companies like Ford and Ericsson.",
+    "tags": [
+      "no-tuition",
+      "engineering",
+      "industry-links",
+      "Germany"
+    ]
+  },
+  {
+    "id": "bologna",
+    "name": "University of Bologna",
+    "country": "Italy",
+    "city": "Bologna",
+    "tuitionPerYear": 2000,
+    "currency": "EUR",
+    "ieltsMin": 6.0,
+    "fields": [
+      "Computer Science",
+      "Business",
+      "Law",
+      "Medicine"
+    ],
+    "programs": [
+      "MSc Computer Science",
+      "MSc Data Science",
+      "MSc AI"
+    ],
+    "ranking": 166,
+    "acceptanceRate": 40,
+    "deadline": "April 30",
+    "website": "https://www.unibo.it",
+    "scholarships": [
+      "ER.GO Scholarship",
+      "Merit-based grants"
+    ],
+    "description": "The world's oldest university offering affordable, high-quality education with full-fee waivers for low-income international students.",
+    "tags": [
+      "affordable",
+      "historic",
+      "Italy",
+      "diverse"
+    ]
+  },
+  {
+    "id": "polimi",
+    "name": "Politecnico di Milano",
+    "country": "Italy",
+    "city": "Milan",
+    "tuitionPerYear": 3000,
+    "currency": "EUR",
+    "ieltsMin": 6.5,
+    "fields": [
+      "Engineering",
+      "Architecture",
+      "Design",
+      "Computer Science"
+    ],
+    "programs": [
+      "MSc Computer Science & Engineering",
+      "MSc Data Science",
+      "MSc AI & ML"
+    ],
+    "ranking": 139,
+    "acceptanceRate": 25,
+    "deadline": "April 15",
+    "website": "https://www.polimi.it",
+    "scholarships": [
+      "POLIMI DSU Scholarship",
+      "Excellence Scholarship"
+    ],
+    "description": "Italy's top polytechnic with strong ties to fashion and design industries. English-taught programs with generous scholarships.",
+    "tags": [
+      "engineering",
+      "design",
+      "Italy",
+      "scholarships"
+    ]
+  },
+  {
+    "id": "metu",
+    "name": "Middle East Technical University",
+    "country": "Turkey",
+    "city": "Ankara",
+    "tuitionPerYear": 800,
+    "currency": "USD",
+    "ieltsMin": 6.0,
+    "fields": [
+      "Engineering",
+      "Science",
+      "Architecture",
+      "Economics"
+    ],
+    "programs": [
+      "MSc Computer Engineering",
+      "MSc Electrical Engineering",
+      "MSc Industrial Engineering"
+    ],
+    "ranking": 476,
+    "acceptanceRate": 30,
+    "deadline": "May 15",
+    "website": "https://www.metu.edu.tr",
+    "scholarships": [
+      "Türkiye Burslari Government Scholarship"
+    ],
+    "description": "Turkey's flagship research university with English-taught programs and a Pakistan-friendly Türkiye Burslari scholarship covering full tuition plus stipend.",
+    "tags": [
+      "affordable",
+      "scholarship",
+      "Turkey",
+      "English-medium"
+    ]
+  },
+  {
+    "id": "itu",
+    "name": "Istanbul Technical University",
+    "country": "Turkey",
+    "city": "Istanbul",
+    "tuitionPerYear": 700,
+    "currency": "USD",
+    "ieltsMin": 6.0,
+    "fields": [
+      "Engineering",
+      "Architecture",
+      "Science"
+    ],
+    "programs": [
+      "MSc Computer Engineering",
+      "MSc Civil Engineering",
+      "MSc Naval Architecture"
+    ],
+    "ranking": 601,
+    "acceptanceRate": 35,
+    "deadline": "June 1",
+    "website": "https://www.itu.edu.tr",
+    "scholarships": [
+      "Türkiye Burslari Scholarship"
+    ],
+    "description": "One of the world's oldest technical universities situated in vibrant Istanbul, with full government scholarships available for Pakistani students.",
+    "tags": [
+      "affordable",
+      "Turkey",
+      "Istanbul",
+      "engineering"
+    ]
+  },
+  {
+    "id": "um",
+    "name": "University of Malaya",
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "tuitionPerYear": 4000,
+    "currency": "USD",
+    "ieltsMin": 6.0,
+    "fields": [
+      "Computer Science",
+      "Engineering",
+      "Business",
+      "Medicine"
+    ],
+    "programs": [
+      "MSc Computer Science",
+      "MSc Data Engineering",
+      "MBA"
+    ],
+    "ranking": 65,
+    "acceptanceRate": 20,
+    "deadline": "March 31",
+    "website": "https://www.um.edu.my",
+    "scholarships": [
+      "UM Graduate Research Fellowship",
+      "Malaysian Government Scholarship"
+    ],
+    "description": "Malaysia's top-ranked university, offering affordable English-medium education in a multicultural environment similar to Pakistan.",
+    "tags": [
+      "affordable",
+      "Muslim-friendly",
+      "Asia",
+      "Malaysia"
+    ]
+  },
+  {
+    "id": "zju",
+    "name": "Zhejiang University",
+    "country": "China",
+    "city": "Hangzhou",
+    "tuitionPerYear": 4500,
+    "currency": "USD",
+    "ieltsMin": 6.0,
+    "fields": [
+      "Computer Science",
+      "Engineering",
+      "AI",
+      "Biotechnology"
+    ],
+    "programs": [
+      "MSc Computer Science",
+      "MSc AI",
+      "MSc Electrical Engineering"
+    ],
+    "ranking": 42,
+    "acceptanceRate": 15,
+    "deadline": "March 15",
+    "website": "https://www.zju.edu.cn",
+    "scholarships": [
+      "Chinese Government Scholarship (CSC)",
+      "Zhejiang Provincial Scholarship"
+    ],
+    "description": "A C9 league university with the CSC scholarship covering full tuition, accommodation, and monthly stipend for Pakistani students.",
+    "tags": [
+      "CSC-scholarship",
+      "top-ranked",
+      "China",
+      "AI-research"
+    ]
+  },
+  {
+    "id": "umanitoba",
+    "name": "University of Manitoba",
+    "country": "Canada",
+    "city": "Winnipeg",
+    "tuitionPerYear": 16000,
+    "currency": "CAD",
+    "ieltsMin": 6.5,
+    "fields": [
+      "Computer Science",
+      "Engineering",
+      "Business",
+      "Science"
+    ],
+    "programs": [
+      "MSc Computer Science",
+      "MEng Electrical Engineering",
+      "MSc Data Science"
+    ],
+    "ranking": 601,
+    "acceptanceRate": 55,
+    "deadline": "February 1",
+    "website": "https://www.umanitoba.ca",
+    "scholarships": [
+      "UMGF Graduate Fellowship",
+      "NSERC Scholarships"
+    ],
+    "description": "Canada's oldest western university with high acceptance rates for Pakistani students and strong PGWP pathways to Canadian PR.",
+    "tags": [
+      "Canada",
+      "PR-pathway",
+      "affordable-Canada",
+      "PGWP"
+    ]
+  },
+  {
+    "id": "leicester",
+    "name": "University of Leicester",
+    "country": "United Kingdom",
+    "city": "Leicester",
+    "tuitionPerYear": 18000,
+    "currency": "GBP",
+    "ieltsMin": 6.5,
+    "fields": [
+      "Computer Science",
+      "Business",
+      "Law",
+      "Space Science"
+    ],
+    "programs": [
+      "MSc Data Science",
+      "MSc Computer Science",
+      "MSc AI"
+    ],
+    "ranking": 601,
+    "acceptanceRate": 60,
+    "deadline": "July 31",
+    "website": "https://www.le.ac.uk",
+    "scholarships": [
+      "Commonwealth Scholarship",
+      "University of Leicester Scholarship"
+    ],
+    "description": "A welcoming UK university with a large Pakistani student community, high acceptance rate, and graduate visa access post-study.",
+    "tags": [
+      "UK",
+      "Pakistani-community",
+      "graduate-visa",
+      "welcoming"
+    ]
+  },
+  {
+    "id": "kit",
+    "name": "Karlsruhe Institute of Technology",
+    "country": "Germany",
+    "city": "Karlsruhe",
+    "tuitionPerYear": 0,
+    "currency": "EUR",
+    "ieltsMin": 6.5,
+    "fields": [
+      "Computer Science",
+      "Engineering",
+      "Physics",
+      "Mathematics"
+    ],
+    "programs": [
+      "MSc Computer Science",
+      "MSc Information Engineering",
+      "MSc Electrical Engineering"
+    ],
+    "ranking": 119,
+    "acceptanceRate": 15,
+    "deadline": "May 15",
+    "website": "https://www.kit.edu",
+    "scholarships": [
+      "DAAD Scholarship",
+      "KIT Excellence Scholarship"
+    ],
+    "description": "Germany's national research center merged with a university. Completely free tuition with cutting-edge research in AI, robotics, and engineering.",
+    "tags": [
+      "no-tuition",
+      "research",
+      "Germany",
+      "engineering"
+    ]
+  },
+  {
+    "id": "tub",
+    "name": "TU Berlin",
+    "country": "Germany",
+    "city": "Berlin",
+    "tuitionPerYear": 0,
+    "currency": "EUR",
+    "ieltsMin": 6.5,
+    "fields": [
+      "Computer Science",
+      "Engineering",
+      "Mathematics",
+      "AI"
+    ],
+    "programs": [
+      "MSc Computer Science",
+      "MSc AI",
+      "MSc Electrical Engineering"
+    ],
+    "ranking": 154,
+    "acceptanceRate": 18,
+    "deadline": "June 1",
+    "website": "https://www.tu.berlin",
+    "scholarships": [
+      "DAAD ISAP Scholarship",
+      "Berlin Scholarship"
+    ],
+    "description": "Free tuition university in Berlin's thriving tech ecosystem. Strong AI program with DAAD scholarships specifically for Pakistani students.",
+    "tags": [
+      "no-tuition",
+      "Berlin",
+      "AI",
+      "Germany"
+    ]
+  },
+  {
+    "id": "unistuttgart",
+    "name": "University of Stuttgart",
+    "country": "Germany",
+    "city": "Stuttgart",
+    "tuitionPerYear": 0,
+    "currency": "EUR",
+    "ieltsMin": 6.0,
+    "fields": [
+      "Engineering",
+      "Computer Science",
+      "Aerospace",
+      "Automotive"
+    ],
+    "programs": [
+      "MSc Electrical Engineering",
+      "MSc Aerospace Engineering",
+      "MSc Computer Science"
+    ],
+    "ranking": 300,
+    "acceptanceRate": 22,
+    "deadline": "May 15",
+    "website": "https://www.uni-stuttgart.de",
+    "scholarships": [
+      "DAAD Scholarship",
+      "Baden-Württemberg Stipendium"
+    ],
+    "description": "Free tuition German university in the heart of the automotive industry near Mercedes-Benz and Porsche headquarters.",
+    "tags": [
+      "no-tuition",
+      "automotive",
+      "aerospace",
+      "Germany"
+    ]
+  },
+  {
+    "id": "unimunich",
+    "name": "Ludwig Maximilian University Munich",
+    "country": "Germany",
+    "city": "Munich",
+    "tuitionPerYear": 0,
+    "currency": "EUR",
+    "ieltsMin": 6.5,
+    "fields": [
+      "Business",
+      "Medicine",
+      "Law",
+      "Computer Science",
+      "Economics"
+    ],
+    "programs": [
+      "MSc Business Administration",
+      "MSc Statistics",
+      "MSc Computer Science"
+    ],
+    "ranking": 59,
+    "acceptanceRate": 10,
+    "deadline": "April 30",
+    "website": "https://www.lmu.de",
+    "scholarships": [
+      "DAAD Scholarship",
+      "Deutschlandstipendium"
+    ],
+    "description": "One of Germany's elite universities completely free for international students. Strong reputation in business, medicine, and sciences.",
+    "tags": [
+      "no-tuition",
+      "elite",
+      "Germany",
+      "business"
+    ]
+  },
+  {
+    "id": "unihamburg",
+    "name": "University of Hamburg",
+    "country": "Germany",
+    "city": "Hamburg",
+    "tuitionPerYear": 0,
+    "currency": "EUR",
+    "ieltsMin": 6.0,
+    "fields": [
+      "Computer Science",
+      "Business",
+      "Law",
+      "Science"
+    ],
+    "programs": [
+      "MSc Intelligent Adaptive Systems",
+      "MSc Computer Science",
+      "MSc Business"
+    ],
+    "ranking": 250,
+    "acceptanceRate": 25,
+    "deadline": "May 1",
+    "website": "https://www.uni-hamburg.de",
+    "scholarships": [
+      "DAAD Scholarship",
+      "Hamburg Scholarship"
+    ],
+    "description": "Free tuition in Germany's second largest city with a thriving port economy. Lower entry requirements make it accessible for Pakistani students.",
+    "tags": [
+      "no-tuition",
+      "Germany",
+      "Hamburg",
+      "accessible"
+    ]
+  },
+  {
+    "id": "trento",
+    "name": "University of Trento",
+    "country": "Italy",
+    "city": "Trento",
+    "tuitionPerYear": 800,
+    "currency": "EUR",
+    "ieltsMin": 6.0,
+    "fields": [
+      "Computer Science",
+      "Engineering",
+      "Mathematics",
+      "Physics"
+    ],
+    "programs": [
+      "MSc Data Science",
+      "MSc Computer Science",
+      "MSc Mathematics"
+    ],
+    "ranking": 350,
+    "acceptanceRate": 45,
+    "deadline": "June 30",
+    "website": "https://www.unitn.it",
+    "scholarships": [
+      "Opera Universitaria Scholarship",
+      "Merit Scholarship"
+    ],
+    "description": "Small innovative Italian university with very low tuition and scholarships covering full fees. Safe affordable city with low cost of living.",
+    "tags": [
+      "affordable",
+      "Italy",
+      "safe",
+      "scholarships"
+    ]
+  },
+  {
+    "id": "sapienza",
+    "name": "Sapienza University of Rome",
+    "country": "Italy",
+    "city": "Rome",
+    "tuitionPerYear": 1500,
+    "currency": "EUR",
+    "ieltsMin": 6.0,
+    "fields": [
+      "Engineering",
+      "Medicine",
+      "Architecture",
+      "Computer Science",
+      "Humanities"
+    ],
+    "programs": [
+      "MSc Computer Science",
+      "MSc Engineering in Computer Science",
+      "MSc AI"
+    ],
+    "ranking": 171,
+    "acceptanceRate": 50,
+    "deadline": "May 31",
+    "website": "https://www.uniroma1.it",
+    "scholarships": [
+      "LazioDisu Scholarship",
+      "Merit Scholarship"
+    ],
+    "description": "Europe's largest university by enrollment located in Rome. Very affordable tuition with regional scholarships for low-income international students.",
+    "tags": [
+      "affordable",
+      "Italy",
+      "Rome",
+      "large-university"
+    ]
+  },
+  {
+    "id": "pisa",
+    "name": "University of Pisa",
+    "country": "Italy",
+    "city": "Pisa",
+    "tuitionPerYear": 1200,
+    "currency": "EUR",
+    "ieltsMin": 5.5,
+    "fields": [
+      "Computer Science",
+      "Engineering",
+      "Physics",
+      "Mathematics"
+    ],
+    "programs": [
+      "MSc Computer Science",
+      "MSc Data Science",
+      "MSc Artificial Intelligence"
+    ],
+    "ranking": 350,
+    "acceptanceRate": 55,
+    "deadline": "June 30",
+    "website": "https://www.unipi.it",
+    "scholarships": [
+      "DSU Scholarship",
+      "University Merit Grant"
+    ],
+    "description": "Historic Italian university with very low IELTS requirement of 5.5. Strong computer science and AI programs at very affordable cost.",
+    "tags": [
+      "affordable",
+      "Italy",
+      "low-IELTS",
+      "CS"
+    ]
+  },
+  {
+    "id": "ankara",
+    "name": "Ankara University",
+    "country": "Turkey",
+    "city": "Ankara",
+    "tuitionPerYear": 500,
+    "currency": "USD",
+    "ieltsMin": 5.5,
+    "fields": [
+      "Medicine",
+      "Law",
+      "Engineering",
+      "Science",
+      "Business"
+    ],
+    "programs": [
+      "MSc Computer Engineering",
+      "MSc Biomedical Engineering",
+      "MBA"
+    ],
+    "ranking": 800,
+    "acceptanceRate": 50,
+    "deadline": "June 30",
+    "website": "https://www.ankara.edu.tr",
+    "scholarships": [
+      "Türkiye Burslari Scholarship",
+      "University Scholarship"
+    ],
+    "description": "Turkey's oldest and most prestigious state university with very low fees and full Türkiye Burslari scholarships for Pakistani students.",
+    "tags": [
+      "affordable",
+      "Turkey",
+      "Ankara",
+      "low-IELTS"
+    ]
+  },
+  {
+    "id": "bogazici",
+    "name": "Bogazici University",
+    "country": "Turkey",
+    "city": "Istanbul",
+    "tuitionPerYear": 600,
+    "currency": "USD",
+    "ieltsMin": 6.0,
+    "fields": [
+      "Engineering",
+      "Computer Science",
+      "Business",
+      "Economics"
+    ],
+    "programs": [
+      "MSc Computer Engineering",
+      "MSc Software Engineering",
+      "MSc Business Analytics"
+    ],
+    "ranking": 500,
+    "acceptanceRate": 20,
+    "deadline": "May 31",
+    "website": "https://www.boun.edu.tr",
+    "scholarships": [
+      "Türkiye Burslari Scholarship",
+      "Bogazici University Scholarship"
+    ],
+    "description": "Turkey's most prestigious English-medium university on the Bosphorus in Istanbul. Fully funded Türkiye Burslari scholarships available for Pakistani students.",
+    "tags": [
+      "English-medium",
+      "Turkey",
+      "Istanbul",
+      "prestigious"
+    ]
+  },
+  {
+    "id": "utm",
+    "name": "Universiti Teknologi Malaysia",
+    "country": "Malaysia",
+    "city": "Johor Bahru",
+    "tuitionPerYear": 3000,
+    "currency": "USD",
+    "ieltsMin": 5.5,
+    "fields": [
+      "Engineering",
+      "Computer Science",
+      "Architecture",
+      "Science"
+    ],
+    "programs": [
+      "MSc Software Engineering",
+      "MSc Computer Science",
+      "MSc Electrical Engineering"
+    ],
+    "ranking": 400,
+    "acceptanceRate": 40,
+    "deadline": "Rolling",
+    "website": "https://www.utm.my",
+    "scholarships": [
+      "UTM Scholarship",
+      "Research Assistantship"
+    ],
+    "description": "Affordable Malaysian university near Singapore with very low IELTS requirement. Strong engineering programs popular with Pakistani students.",
+    "tags": [
+      "affordable",
+      "Malaysia",
+      "low-IELTS",
+      "engineering"
+    ]
+  },
+  {
+    "id": "upm",
+    "name": "Universiti Putra Malaysia",
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "tuitionPerYear": 3500,
+    "currency": "USD",
+    "ieltsMin": 5.5,
+    "fields": [
+      "Agriculture",
+      "Engineering",
+      "Computer Science",
+      "Medicine",
+      "Business"
+    ],
+    "programs": [
+      "MSc Computer Science",
+      "MSc Data Science",
+      "MSc Electrical Engineering"
+    ],
+    "ranking": 150,
+    "acceptanceRate": 35,
+    "deadline": "Rolling",
+    "website": "https://www.upm.edu.my",
+    "scholarships": [
+      "Malaysian International Scholarship",
+      "UPM Graduate Fellowship"
+    ],
+    "description": "Top Malaysian research university with very affordable fees and low IELTS requirements. Muslim-friendly campus with large Pakistani student community.",
+    "tags": [
+      "affordable",
+      "Muslim-friendly",
+      "Malaysia",
+      "research"
+    ]
+  },
+  {
+    "id": "usm",
+    "name": "Universiti Sains Malaysia",
+    "country": "Malaysia",
+    "city": "Penang",
+    "tuitionPerYear": 3000,
+    "currency": "USD",
+    "ieltsMin": 5.5,
+    "fields": [
+      "Science",
+      "Engineering",
+      "Medicine",
+      "Computer Science"
+    ],
+    "programs": [
+      "MSc Computer Science",
+      "MSc Software Engineering",
+      "MSc Data Science"
+    ],
+    "ranking": 200,
+    "acceptanceRate": 40,
+    "deadline": "Rolling",
+    "website": "https://www.usm.my",
+    "scholarships": [
+      "USM Fellowship",
+      "Malaysian Government Scholarship"
+    ],
+    "description": "APEX university in Malaysia located in beautiful Penang island. Very affordable with low IELTS requirement and strong research culture.",
+    "tags": [
+      "affordable",
+      "Malaysia",
+      "Penang",
+      "research"
+    ]
+  },
+  {
+    "id": "pku",
+    "name": "Peking University",
+    "country": "China",
+    "city": "Beijing",
+    "tuitionPerYear": 5000,
+    "currency": "USD",
+    "ieltsMin": 6.0,
+    "fields": [
+      "Computer Science",
+      "Business",
+      "Law",
+      "Economics",
+      "AI"
+    ],
+    "programs": [
+      "MSc Computer Science",
+      "MSc Data Science",
+      "MBA",
+      "MSc AI"
+    ],
+    "ranking": 17,
+    "acceptanceRate": 8,
+    "deadline": "March 1",
+    "website": "https://www.pku.edu.cn",
+    "scholarships": [
+      "Chinese Government Scholarship CSC",
+      "PKU Scholarship"
+    ],
+    "description": "China's most prestigious university. CSC scholarship covers everything for Pakistani students. HEC has strong bilateral agreement with Chinese universities.",
+    "tags": [
+      "CSC-scholarship",
+      "elite",
+      "China",
+      "Beijing"
+    ]
+  },
+  {
+    "id": "tongji",
+    "name": "Tongji University",
+    "country": "China",
+    "city": "Shanghai",
+    "tuitionPerYear": 4000,
+    "currency": "USD",
+    "ieltsMin": 5.5,
+    "fields": [
+      "Civil Engineering",
+      "Architecture",
+      "Computer Science",
+      "Automotive"
+    ],
+    "programs": [
+      "MSc Civil Engineering",
+      "MSc Computer Science",
+      "MSc Architecture"
+    ],
+    "ranking": 250,
+    "acceptanceRate": 25,
+    "deadline": "March 31",
+    "website": "https://www.tongji.edu.cn",
+    "scholarships": [
+      "CSC Scholarship",
+      "Shanghai Government Scholarship"
+    ],
+    "description": "Premier Chinese engineering university in Shanghai. CSC fully funded scholarship with stipend. Large Pakistani student community in Shanghai.",
+    "tags": [
+      "CSC-scholarship",
+      "engineering",
+      "China",
+      "Shanghai"
+    ]
+  },
+  {
+    "id": "hust",
+    "name": "Huazhong University of Science and Technology",
+    "country": "China",
+    "city": "Wuhan",
+    "tuitionPerYear": 4200,
+    "currency": "USD",
+    "ieltsMin": 5.5,
+    "fields": [
+      "Engineering",
+      "Computer Science",
+      "Medicine",
+      "Science"
+    ],
+    "programs": [
+      "MSc Computer Science",
+      "MSc Electrical Engineering",
+      "MSc Mechanical Engineering"
+    ],
+    "ranking": 160,
+    "acceptanceRate": 20,
+    "deadline": "April 1",
+    "website": "https://www.hust.edu.cn",
+    "scholarships": [
+      "CSC Scholarship",
+      "HUST Excellence Scholarship"
+    ],
+    "description": "Top Chinese technical university known as the City of Universities. CSC scholarship fully funded. Very popular destination for Pakistani engineering students.",
+    "tags": [
+      "CSC-scholarship",
+      "engineering",
+      "China",
+      "popular-Pakistan"
+    ]
+  },
+  {
+    "id": "uregina",
+    "name": "University of Regina",
+    "country": "Canada",
+    "city": "Regina",
+    "tuitionPerYear": 14000,
+    "currency": "CAD",
+    "ieltsMin": 6.5,
+    "fields": [
+      "Computer Science",
+      "Engineering",
+      "Business",
+      "Education"
+    ],
+    "programs": [
+      "MSc Software Systems Engineering",
+      "MSc Computer Science",
+      "MBA"
+    ],
+    "ranking": 801,
+    "acceptanceRate": 65,
+    "deadline": "March 1",
+    "website": "https://www.uregina.ca",
+    "scholarships": [
+      "International Entrance Scholarship",
+      "Graduate Award"
+    ],
+    "description": "Affordable Canadian university with straightforward admission. Saskatchewan immigrant nominee program offers easy pathway to Canadian permanent residency.",
+    "tags": [
+      "Canada",
+      "PR-pathway",
+      "affordable-Canada",
+      "PGWP"
+    ]
+  },
+  {
+    "id": "ulethbridge",
+    "name": "University of Lethbridge",
+    "country": "Canada",
+    "city": "Lethbridge",
+    "tuitionPerYear": 13000,
+    "currency": "CAD",
+    "ieltsMin": 6.5,
+    "fields": [
+      "Computer Science",
+      "Business",
+      "Science",
+      "Arts"
+    ],
+    "programs": [
+      "MSc Computer Science",
+      "MSc Data Analytics",
+      "MBA"
+    ],
+    "ranking": 801,
+    "acceptanceRate": 70,
+    "deadline": "March 15",
+    "website": "https://www.uleth.ca",
+    "scholarships": [
+      "International Student Scholarship",
+      "Graduate Research Scholarship"
+    ],
+    "description": "One of Canada's most affordable universities for international students. Alberta immigrant nominee program for permanent residency. Very high acceptance rate.",
+    "tags": [
+      "Canada",
+      "affordable-Canada",
+      "PR-pathway",
+      "high-acceptance"
+    ]
+  },
+  {
+    "id": "unbrunwick",
+    "name": "University of New Brunswick",
+    "country": "Canada",
+    "city": "Fredericton",
+    "tuitionPerYear": 15000,
+    "currency": "CAD",
+    "ieltsMin": 6.5,
+    "fields": [
+      "Engineering",
+      "Computer Science",
+      "Business",
+      "Law"
+    ],
+    "programs": [
+      "MEng Computer Engineering",
+      "MSc Computer Science",
+      "MBA"
+    ],
+    "ranking": 601,
+    "acceptanceRate": 60,
+    "deadline": "February 28",
+    "website": "https://www.unb.ca",
+    "scholarships": [
+      "UNB Graduate Scholarship",
+      "Atlantic Scholarship"
+    ],
+    "description": "Canada's oldest English-language university with affordable tuition. New Brunswick PNP provides easy pathway to Canadian permanent residency for graduates.",
+    "tags": [
+      "Canada",
+      "PR-pathway",
+      "engineering",
+      "affordable-Canada"
+    ]
+  },
+  {
+    "id": "coventry",
+    "name": "Coventry University",
+    "country": "United Kingdom",
+    "city": "Coventry",
+    "tuitionPerYear": 17000,
+    "currency": "GBP",
+    "ieltsMin": 6.0,
+    "fields": [
+      "Computer Science",
+      "Engineering",
+      "Business",
+      "Design"
+    ],
+    "programs": [
+      "MSc Cyber Security",
+      "MSc Data Science",
+      "MSc Computer Science",
+      "MBA"
+    ],
+    "ranking": 601,
+    "acceptanceRate": 65,
+    "deadline": "Rolling",
+    "website": "https://www.coventry.ac.uk",
+    "scholarships": [
+      "Coventry Excellence Scholarship",
+      "International Student Scholarship"
+    ],
+    "description": "Modern UK university with lower entry requirements and January intake option. Two year graduate visa after graduation. Large Pakistani student community.",
+    "tags": [
+      "UK",
+      "graduate-visa",
+      "January-intake",
+      "accessible"
+    ]
+  },
+  {
+    "id": "bradford",
+    "name": "University of Bradford",
+    "country": "United Kingdom",
+    "city": "Bradford",
+    "tuitionPerYear": 16000,
+    "currency": "GBP",
+    "ieltsMin": 6.0,
+    "fields": [
+      "Engineering",
+      "Business",
+      "Computer Science",
+      "Pharmacy"
+    ],
+    "programs": [
+      "MSc Data Science",
+      "MSc Computer Science",
+      "MSc Engineering Management",
+      "MBA"
+    ],
+    "ranking": 801,
+    "acceptanceRate": 70,
+    "deadline": "Rolling",
+    "website": "https://www.bradford.ac.uk",
+    "scholarships": [
+      "Vice Chancellor Scholarship",
+      "International Excellence Award"
+    ],
+    "description": "Affordable UK university with one of the largest Pakistani communities in Britain. Bradford is historically known as a Pakistani hub in the UK.",
+    "tags": [
+      "UK",
+      "Pakistani-community",
+      "affordable-UK",
+      "graduate-visa"
+    ]
+  },
+  {
+    "id": "huddersfield",
+    "name": "University of Huddersfield",
+    "country": "United Kingdom",
+    "city": "Huddersfield",
+    "tuitionPerYear": 15500,
+    "currency": "GBP",
+    "ieltsMin": 6.0,
+    "fields": [
+      "Engineering",
+      "Computer Science",
+      "Business",
+      "Education"
+    ],
+    "programs": [
+      "MSc Computer Science",
+      "MSc Software Engineering",
+      "MSc Data Analytics"
+    ],
+    "ranking": 801,
+    "acceptanceRate": 72,
+    "deadline": "Rolling",
+    "website": "https://www.hud.ac.uk",
+    "scholarships": [
+      "International Scholarship",
+      "Academic Excellence Award"
+    ],
+    "description": "Affordable UK university near Bradford with very high acceptance rate and large Pakistani community. Strong teaching-focused institution with industry connections.",
+    "tags": [
+      "UK",
+      "affordable-UK",
+      "Pakistani-community",
+      "high-acceptance"
+    ]
+  },
+  {
+    "id": "nus",
+    "name": "National University of Singapore",
+    "country": "Singapore",
+    "city": "Singapore",
+    "tuitionPerYear": 18000,
+    "currency": "SGD",
+    "ieltsMin": 6.5,
+    "fields": [
+      "Computer Science",
+      "Engineering",
+      "Business",
+      "Medicine",
+      "Law"
+    ],
+    "programs": [
+      "MSc Computer Science",
+      "MSc Data Science",
+      "MSc AI",
+      "MBA"
+    ],
+    "ranking": 8,
+    "acceptanceRate": 10,
+    "deadline": "December 1",
+    "website": "https://www.nus.edu.sg",
+    "scholarships": [
+      "NUS Research Scholarship",
+      "SINGA Scholarship"
+    ],
+    "description": "Asia's top university and one of world's top 10. Excellent career opportunities in Singapore's tech hub. SINGA scholarship for research students fully funded.",
+    "tags": [
+      "top-ranked",
+      "Singapore",
+      "Asia",
+      "research"
+    ]
+  },
+  {
+    "id": "ntu",
+    "name": "Nanyang Technological University",
+    "country": "Singapore",
+    "city": "Singapore",
+    "tuitionPerYear": 17000,
+    "currency": "SGD",
+    "ieltsMin": 6.5,
+    "fields": [
+      "Engineering",
+      "Computer Science",
+      "Business",
+      "Science"
+    ],
+    "programs": [
+      "MSc Computer Science",
+      "MSc AI",
+      "MSc Data Science",
+      "MEng"
+    ],
+    "ranking": 26,
+    "acceptanceRate": 12,
+    "deadline": "January 31",
+    "website": "https://www.ntu.edu.sg",
+    "scholarships": [
+      "NTU Research Scholarship",
+      "SINGA Scholarship"
+    ],
+    "description": "World top 30 university known for engineering and technology. SINGA scholarship available for research students. Singapore offers excellent post-study work opportunities.",
+    "tags": [
+      "top-ranked",
+      "Singapore",
+      "engineering",
+      "research"
+    ]
+  },
+  {
+    "id": "unimelb",
+    "name": "University of Melbourne",
+    "country": "Australia",
+    "city": "Melbourne",
+    "tuitionPerYear": 35000,
+    "currency": "AUD",
+    "ieltsMin": 6.5,
+    "fields": [
+      "Computer Science",
+      "Engineering",
+      "Business",
+      "Medicine",
+      "Law"
+    ],
+    "programs": [
+      "MSc Computer Science",
+      "MSc Data Science",
+      "MSc AI",
+      "MBA"
+    ],
+    "ranking": 33,
+    "acceptanceRate": 30,
+    "deadline": "October 31",
+    "website": "https://www.unimelb.edu.au",
+    "scholarships": [
+      "Melbourne Research Scholarship",
+      "Graduate Research Scholarship"
+    ],
+    "description": "Australia's top university with strong Pakistani student community. Two year post study work visa. Prodigy Finance loans available for Pakistani students.",
+    "tags": [
+      "Australia",
+      "top-ranked",
+      "Pakistani-community",
+      "post-study-visa"
+    ]
+  },
+  {
+    "id": "unsw",
+    "name": "University of New South Wales",
+    "country": "Australia",
+    "city": "Sydney",
+    "tuitionPerYear": 38000,
+    "currency": "AUD",
+    "ieltsMin": 6.5,
+    "fields": [
+      "Engineering",
+      "Computer Science",
+      "Business",
+      "Law"
+    ],
+    "programs": [
+      "MSc Computer Science",
+      "MSc AI",
+      "MSc Data Engineering",
+      "MBA"
+    ],
+    "ranking": 19,
+    "acceptanceRate": 25,
+    "deadline": "October 1",
+    "website": "https://www.unsw.edu.au",
+    "scholarships": [
+      "UNSW International Scholarship",
+      "Scientia Scholarship"
+    ],
+    "description": "World top 20 university in Sydney. Strong engineering and tech programs. Pakistani student community. Post study work visa for 2-4 years.",
+    "tags": [
+      "Australia",
+      "top-ranked",
+      "engineering",
+      "post-study-visa"
+    ]
+  },
+  {
+    "id": "york",
+    "name": "York University",
+    "country": "Canada",
+    "city": "Toronto",
+    "tuitionPerYear": 25000,
+    "currency": "CAD",
+    "ieltsMin": 7.0,
+    "fields": [
+      "Computer Science",
+      "Business",
+      "Law",
+      "Arts",
+      "Science"
+    ],
+    "programs": [
+      "MSc Information Technology",
+      "MSc Computer Science",
+      "MBA"
+    ],
+    "ranking": 601,
+    "acceptanceRate": 50,
+    "deadline": "February 1",
+    "website": "https://www.yorku.ca",
+    "scholarships": [
+      "York Graduate Scholarship",
+      "International Student Award"
+    ],
+    "description": "Large Canadian university in Toronto with massive Pakistani community. Toronto is Canada's tech hub. Post graduation work permit and strong PR pathway.",
+    "tags": [
+      "Canada",
+      "Toronto",
+      "Pakistani-community",
+      "PR-pathway"
+    ]
+  },
+  {
+    "id": "ryerson",
+    "name": "Toronto Metropolitan University",
+    "country": "Canada",
+    "city": "Toronto",
+    "tuitionPerYear": 22000,
+    "currency": "CAD",
+    "ieltsMin": 6.5,
+    "fields": [
+      "Computer Science",
+      "Engineering",
+      "Business",
+      "Design"
+    ],
+    "programs": [
+      "MSc Computer Science",
+      "MEng Electrical Engineering",
+      "MBA",
+      "MSc Data Science"
+    ],
+    "ranking": 801,
+    "acceptanceRate": 55,
+    "deadline": "February 15",
+    "website": "https://www.torontomu.ca",
+    "scholarships": [
+      "International Excellence Scholarship",
+      "Graduate Award"
+    ],
+    "description": "Downtown Toronto university with strong industry connections. Located in Canada's Silicon Valley. High employment rate for graduates. Prodigy Finance loans available.",
+    "tags": [
+      "Canada",
+      "Toronto",
+      "industry-links",
+      "PR-pathway"
+    ]
+  },
+  {
+    "id": "auckland",
+    "name": "University of Auckland",
+    "country": "New Zealand",
+    "city": "Auckland",
+    "tuitionPerYear": 28000,
+    "currency": "NZD",
+    "ieltsMin": 6.5,
+    "fields": [
+      "Computer Science",
+      "Engineering",
+      "Business",
+      "Medicine"
+    ],
+    "programs": [
+      "MSc Computer Science",
+      "MSc Data Science",
+      "ME Software Engineering",
+      "MBA"
+    ],
+    "ranking": 65,
+    "acceptanceRate": 40,
+    "deadline": "November 1",
+    "website": "https://www.auckland.ac.nz",
+    "scholarships": [
+      "University of Auckland Scholarship",
+      "NZ Government Scholarship"
+    ],
+    "description": "New Zealand's top university. Post study work visa for 3 years. Pathway to New Zealand permanent residency. Safer and more affordable than Australia with similar opportunities.",
+    "tags": [
+      "New-Zealand",
+      "PR-pathway",
+      "post-study-visa",
+      "safe"
+    ]
+  },
+  {
+    "id": "waikato",
+    "name": "University of Waikato",
+    "country": "New Zealand",
+    "city": "Hamilton",
+    "tuitionPerYear": 22000,
+    "currency": "NZD",
+    "ieltsMin": 6.0,
+    "fields": [
+      "Computer Science",
+      "Business",
+      "Science",
+      "Management"
+    ],
+    "programs": [
+      "MSc Computer Science",
+      "MSc Data Science",
+      "MBA",
+      "MSc Management"
+    ],
+    "ranking": 301,
+    "acceptanceRate": 60,
+    "deadline": "Rolling",
+    "website": "https://www.waikato.ac.nz",
+    "scholarships": [
+      "Waikato International Excellence Scholarship",
+      "Vice Chancellor Award"
+    ],
+    "description": "Affordable New Zealand university known for inventing WEKA machine learning software. High acceptance rate. Three year post study work visa. Pathway to NZ PR.",
+    "tags": [
+      "New-Zealand",
+      "affordable-NZ",
+      "PR-pathway",
+      "ML-research"
+    ]
+  },
+  {
+    "id": "koc",
+    "name": "Koc University",
+    "country": "Turkey",
+    "city": "Istanbul",
+    "tuitionPerYear": 12000,
+    "currency": "USD",
+    "ieltsMin": 6.5,
+    "fields": [
+      "Business",
+      "Engineering",
+      "Computer Science",
+      "Medicine",
+      "Law"
+    ],
+    "programs": [
+      "MBA",
+      "MSc Computer Science",
+      "MSc Data Science",
+      "MSc Engineering"
+    ],
+    "ranking": 501,
+    "acceptanceRate": 15,
+    "deadline": "April 30",
+    "website": "https://www.ku.edu.tr",
+    "scholarships": [
+      "Koc University Scholarship",
+      "Türkiye Burslari Scholarship"
+    ],
+    "description": "Turkey's top private university in Istanbul with English instruction. Türkiye Burslari scholarship available. Strong MBA program with industry connections.",
+    "tags": [
+      "Turkey",
+      "Istanbul",
+      "English-medium",
+      "MBA"
+    ]
+  },
+  {
+    "id": "sabanci",
+    "name": "Sabanci University",
+    "country": "Turkey",
+    "city": "Istanbul",
+    "tuitionPerYear": 10000,
+    "currency": "USD",
+    "ieltsMin": 6.0,
+    "fields": [
+      "Engineering",
+      "Computer Science",
+      "Business",
+      "Social Sciences"
+    ],
+    "programs": [
+      "MSc Computer Science",
+      "MSc Engineering",
+      "MBA",
+      "MSc Data Analytics"
+    ],
+    "ranking": 501,
+    "acceptanceRate": 20,
+    "deadline": "May 31",
+    "website": "https://www.sabanciuniv.edu",
+    "scholarships": [
+      "Sabanci Scholarship",
+      "Türkiye Burslari Scholarship"
+    ],
+    "description": "Innovative Turkish university with interdisciplinary approach. Türkiye Burslari fully funded scholarship. English medium instruction with strong research output.",
+    "tags": [
+      "Turkey",
+      "English-medium",
+      "interdisciplinary",
+      "scholarship"
+    ]
+  },
+  {
+    "id": "dundee",
+    "name": "University of Dundee",
+    "country": "United Kingdom",
+    "city": "Dundee",
+    "tuitionPerYear": 16000,
+    "currency": "GBP",
+    "ieltsMin": 6.0,
+    "fields": [
+      "Computer Science",
+      "Medicine",
+      "Engineering",
+      "Business",
+      "Design"
+    ],
+    "programs": [
+      "MSc Data Science",
+      "MSc Computer Science",
+      "MSc Computing",
+      "MBA"
+    ],
+    "ranking": 601,
+    "acceptanceRate": 65,
+    "deadline": "Rolling",
+    "website": "https://www.dundee.ac.uk",
+    "scholarships": [
+      "International Excellence Scholarship",
+      "Vice Chancellor Award"
+    ],
+    "description": "Affordable Scottish university with lower tuition than England. Scotland offers unique Graduate Route visa. Strong medical and computing programs.",
+    "tags": [
+      "UK",
+      "Scotland",
+      "affordable-UK",
+      "graduate-visa"
+    ]
+  },
+  {
+    "id": "stirling",
+    "name": "University of Stirling",
+    "country": "United Kingdom",
+    "city": "Stirling",
+    "tuitionPerYear": 15000,
+    "currency": "GBP",
+    "ieltsMin": 6.0,
+    "fields": [
+      "Business",
+      "Computer Science",
+      "Finance",
+      "Psychology"
+    ],
+    "programs": [
+      "MSc Data Science",
+      "MBA",
+      "MSc Finance",
+      "MSc Computing"
+    ],
+    "ranking": 801,
+    "acceptanceRate": 72,
+    "deadline": "Rolling",
+    "website": "https://www.stir.ac.uk",
+    "scholarships": [
+      "Stirling Scholarship",
+      "MBA Scholarship"
+    ],
+    "description": "Affordable Scottish university on beautiful campus. One of UK's most affordable options for international students. Graduate visa allows 2 years work after graduation.",
+    "tags": [
+      "UK",
+      "Scotland",
+      "affordable-UK",
+      "business"
+    ]
+  },
+  {
+    "id": "liege",
+    "name": "University of Liege",
+    "country": "Belgium",
+    "city": "Liege",
+    "tuitionPerYear": 835,
+    "currency": "EUR",
+    "ieltsMin": 6.0,
+    "fields": [
+      "Engineering",
+      "Computer Science",
+      "Medicine",
+      "Science"
+    ],
+    "programs": [
+      "MSc Computer Science",
+      "MSc Electrical Engineering",
+      "MSc Data Science"
+    ],
+    "ranking": 400,
+    "acceptanceRate": 45,
+    "deadline": "April 30",
+    "website": "https://www.uliege.be",
+    "scholarships": [
+      "WBI Scholarship",
+      "University Excellence Grant"
+    ],
+    "description": "Belgian university with extremely low tuition of only EUR 835 per year. English taught programs available. Belgium has strong job market and pathway to EU residency.",
+    "tags": [
+      "affordable",
+      "Belgium",
+      "EU",
+      "low-tuition"
+    ]
+  },
+  {
+    "id": "ghent",
+    "name": "Ghent University",
+    "country": "Belgium",
+    "city": "Ghent",
+    "tuitionPerYear": 900,
+    "currency": "EUR",
+    "ieltsMin": 6.5,
+    "fields": [
+      "Engineering",
+      "Biotechnology",
+      "Computer Science",
+      "Business"
+    ],
+    "programs": [
+      "MSc Computer Science",
+      "MSc Data Science Engineering",
+      "MSc Bioinformatics"
+    ],
+    "ranking": 116,
+    "acceptanceRate": 30,
+    "deadline": "March 1",
+    "website": "https://www.ugent.be",
+    "scholarships": [
+      "Ghent University Scholarship",
+      "VLADOC Scholarship"
+    ],
+    "description": "Top Belgian research university with very low tuition. Ranked top 120 globally. English programs available. Belgium allows work during studies.",
+    "tags": [
+      "affordable",
+      "Belgium",
+      "top-ranked",
+      "research"
+    ]
+  },
+  {
+    "id": "vu",
+    "name": "Vrije Universiteit Amsterdam",
+    "country": "Netherlands",
+    "city": "Amsterdam",
+    "tuitionPerYear": 13000,
+    "currency": "EUR",
+    "ieltsMin": 6.5,
+    "fields": [
+      "Computer Science",
+      "Business",
+      "Law",
+      "Social Sciences"
+    ],
+    "programs": [
+      "MSc Computer Science",
+      "MSc AI",
+      "MSc Business Analytics",
+      "MBA"
+    ],
+    "ranking": 215,
+    "acceptanceRate": 35,
+    "deadline": "April 1",
+    "website": "https://www.vu.nl",
+    "scholarships": [
+      "Amsterdam Merit Scholarship",
+      "Holland Scholarship"
+    ],
+    "description": "International university in Amsterdam with fully English programs. Holland Scholarship available for talented international students. Amsterdam is Europe's tech startup capital.",
+    "tags": [
+      "Netherlands",
+      "Amsterdam",
+      "English-medium",
+      "tech-hub"
+    ]
+  },
+  {
+    "id": "groningen",
+    "name": "University of Groningen",
+    "country": "Netherlands",
+    "city": "Groningen",
+    "tuitionPerYear": 14000,
+    "currency": "EUR",
+    "ieltsMin": 6.5,
+    "fields": [
+      "Computer Science",
+      "Business",
+      "Science",
+      "Medicine"
+    ],
+    "programs": [
+      "MSc Computer Science",
+      "MSc Artificial Intelligence",
+      "MSc Data Science",
+      "MBA"
+    ],
+    "ranking": 128,
+    "acceptanceRate": 40,
+    "deadline": "May 1",
+    "website": "https://www.rug.nl",
+    "scholarships": [
+      "Holland Scholarship",
+      "Groningen Excellence Scholarship"
+    ],
+    "description": "Top 130 global university in Netherlands. Affordable cost of living. Holland Scholarship for excellent international students. Strong AI and computing programs.",
+    "tags": [
+      "Netherlands",
+      "top-ranked",
+      "AI",
+      "Holland-scholarship"
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+{
+  "germany": {
+    "country": "Germany",
+    "currency": "EUR",
+    "costs": [
+      { "item": "Visa Fee (National Visa)", "amount": 75, "note": "Approx. 23,000 PKR" },
+      { "item": "Blocked Account", "amount": 11208, "note": "Mandatory for 1 year (monthly allowance: €934)" },
+      { "item": "Health Insurance (Annual)", "amount": 400, "note": "Travel + Initial Public Insurance" },
+      { "item": "Flight Ticket (PIA/One-way)", "amount": 550, "note": "Approx. 165,000 PKR" },
+      { "item": "Settlement Fund", "amount": 1000, "note": "Rent deposit + first month expenses" }
+    ],
+    "steps": [
+      { "title": "Admission", "desc": "Receive Unconditional Offer Letter" },
+      { "title": "Blocked Account", "desc": "Open account via Expatrio or Fintiba" },
+      { "title": "VFS Appointment", "desc": "Book slot for National Visa D category" },
+      { "title": "Embassy Interview", "desc": "Submit documents and verify Biometrics" },
+      { "title": "Visa Stamping", "desc": "Wait for 4-8 weeks for processing" }
+    ]
+  },
+  "italy": {
+    "country": "Italy",
+    "currency": "EUR",
+    "costs": [
+      { "item": "Visa Fee", "amount": 50, "note": "Approx. 15,000 PKR" },
+      { "item": "CIMEA / DOV", "amount": 150, "note": "Legalization of educational documents" },
+      { "item": "Bank Statement", "amount": 6000, "note": "Proof of financial means (usually €500/month)" },
+      { "item": "Flight Ticket", "amount": 600, "note": "Approx. 180,000 PKR" },
+      { "item": "Insurance", "amount": 150, "note": "Mandatory for visa" }
+    ],
+    "steps": [
+      { "title": "Universitaly", "desc": "Complete Pre-enrolment on the portal" },
+      { "title": "DOV / Legalization", "desc": "Attest degrees from HEC/MOFA and Embassy" },
+      { "title": "Regional Scholarship", "desc": "Apply for ER.GO or DSU scholarships" },
+      { "title": "Visa Application", "desc": "Submit via BLS International" },
+      { "title": "Codice Fiscale", "desc": "Obtain Italian Tax Code" }
+    ]
+  },
+  "turkey": {
+    "country": "Turkey",
+    "currency": "USD",
+    "costs": [
+      { "item": "Visa Fee", "amount": 60, "note": "Approx. 17,000 PKR" },
+      { "item": "Turkish Notary / Translation", "amount": 100, "note": "Translation of documents to Turkish" },
+      { "item": "Travel Insurance", "amount": 50, "note": "90-day coverage" },
+      { "item": "Flight Ticket", "amount": 400, "note": "Direct flights via PIA or Turkish Airlines" },
+      { "item": "Residence Permit Fee", "amount": 80, "note": "Paid after arrival in Turkey" }
+    ],
+    "steps": [
+      { "title": "Equivalency", "desc": "Get Denklik (Equivalency) from Turkish Embassy" },
+      { "title": "Visa Slot", "desc": "Book appointment via Gateway Globe" },
+      { "title": "Financial Proof", "desc": "Bank statement of last 6 months" },
+      { "title": "Arrival", "desc": "Report to University and Student Affairs" },
+      { "title": "Residence Permit", "desc": "Apply for Ikamet within 30 days" }
+    ]
+  },
+  "canada": {
+    "country": "Canada",
+    "currency": "CAD",
+    "costs": [
+      { "item": "Study Permit Fee", "amount": 150, "note": "Approx. 31,000 PKR" },
+      { "item": "GIC (Guaranteed Investment Certificate)", "amount": 20635, "note": "New 2024 requirement for living expenses" },
+      { "item": "Biometrics Fee", "amount": 85, "note": "Paid during application" },
+      { "item": "Flight Ticket", "amount": 1200, "note": "Long distance (Transit via Qatar/Turkey)" },
+      { "item": "Medical Exam", "amount": 200, "note": "Approved panel physicians" }
+    ],
+    "steps": [
+      { "title": "SDS/Non-SDS", "desc": "Choose application stream (SDS is faster)" },
+      { "title": "GIC Deposit", "desc": "Transfer funds to Canadian Bank (CIBC/Scotiabank)" },
+      { "title": "PAL", "desc": "Obtain Provincial Attestation Letter" },
+      { "title": "Biometrics", "desc": "Give fingerprints at VFS Global" },
+      { "title": "POE Letter", "desc": "Receive Port of Entry Letter for Study Permit" }
+    ]
+  },
+  "uk": {
+    "country": "United Kingdom",
+    "currency": "GBP",
+    "costs": [
+      { "item": "Visa Fee", "amount": 490, "note": "Approx. 175,000 PKR" },
+      { "item": "IHS (Health Surcharge)", "amount": 776, "note": "Per year of study" },
+      { "item": "CAS Deposit", "amount": 2000, "note": "Varies by Uni (usually £2000-£5000)" },
+      { "item": "Flight Ticket", "amount": 500, "note": "Approx. 180,000 PKR" },
+      { "item": "Maintenance Funds", "amount": 12006, "note": "£1,334/month for 9 months (Inside London)" }
+    ],
+    "steps": [
+      { "title": "CAS", "desc": "Request Confirmation of Acceptance for Studies" },
+      { "title": "TB Test", "desc": "Medical screening from IOM centers" },
+      { "title": "Visa Application", "desc": "Submit online via GOV.UK" },
+      { "title": "BRP", "desc": "Biometric Residence Permit collection" },
+      { "title": "NIN", "desc": "Apply for National Insurance Number for work" }
+    ]
+  }
+}

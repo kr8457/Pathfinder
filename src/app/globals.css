@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand: #00ff66;
+  --color-brand-dark: #00cc52;
+  --color-background: #0a0a0a;
+  --color-foreground: #ededed;
+  --color-card: #141414;
+  --color-border: #262626;
+}
+
+:root {
+  --background: var(--color-background);
+  --foreground: var(--color-foreground);
+  color-scheme: dark;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Base tailwind elements */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--foreground);
+}
