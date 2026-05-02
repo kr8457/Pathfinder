@@ -114,7 +114,22 @@ function localMatchUniversities(profile: StudentProfile, count = 3): University[
  * Local fallback: filter + score internships against profile
  */
 function localMatchInternships(profile: StudentProfile, count = 3): Internship[] {
-  let results = [...internshipsData] as Internship[];
+  let results = internshipsData.map((item) => ({
+    id: item.id,
+    company: item.company,
+    role: item.role,
+    location: item.location,
+    country: item.country,
+    duration: "Unknown", // Not in JSON, default value
+    stipend: item.stipend_min || 0,
+    currency: item.currency || "USD",
+    fields: item.tags || [],
+    skills: [], // Not in JSON, empty array
+    deadline: item.deadline,
+    website: item.website,
+    description: item.description,
+    tags: item.tags,
+  })) as Internship[];
 
   // Filter by destinations if specified
   if (profile.destinations && profile.destinations.length > 0) {
