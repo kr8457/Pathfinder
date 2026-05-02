@@ -1,14 +1,14 @@
 import OpenAI from "openai";
 
-const openai = new OpenAI({
-  apiKey: process.env.NVIDIA_API_KEY,
-  baseURL: process.env.NVIDIA_BASE_URL,
-});
-
 export const maxDuration = 30;
 
 export async function POST(req: Request) {
   try {
+    const openai = new OpenAI({
+      apiKey: process.env.NVIDIA_API_KEY,
+      baseURL: process.env.NVIDIA_BASE_URL,
+    });
+
     const { messages } = await req.json();
 
     const systemPrompt = `You are the PathFinder AI Career Consultant, an expert in global job markets, higher education, and career strategy for international students.
