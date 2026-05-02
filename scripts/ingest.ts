@@ -147,7 +147,7 @@ async function ingestInternships() {
 
 async function main() {
   try {
-    await ingestUniversities();
+    // await ingestUniversities();
     await ingestInternships();
     console.log("Ingestion complete!");
   } catch (error) {

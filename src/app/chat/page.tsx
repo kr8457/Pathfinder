@@ -13,17 +13,31 @@ export default function ChatPage() {
   const [messages, setMessages] = useState<{id: string, role: string, content: string}[]>([]);
   const [isLoading, setIsLoading] = useState(false);
 
-  // Handle initial query from landing page
+  // Handle initial query from landing page OR pre-filled student profile
   useEffect(() => {
     const initialQuery = sessionStorage.getItem("pathfinder_initial_query");
     if (initialQuery) {
       sessionStorage.removeItem("pathfinder_initial_query");
       setTimeout(() => {
-        setInput(initialQuery);
         processQuery(initialQuery);
       }, 100);
+      return;
     }
-  }, []);
+
+    // Auto-load from saved student profile
+    const savedProfile = localStorage.getItem("pathfinder_student_profile");
+    if (savedProfile) {
+      try {
+        const p = JSON.parse(savedProfile);
+        if (p.field && p.destinations?.length > 0) {
+          const autoQuery = `I want to study ${p.field}${p.degree ? " (" + p.degree + ")" : ""} in ${p.destinations.join(" or ")}. Budget: ${p.budget || "open"}. IELTS: ${p.ielts || "not yet taken"}.`;
+          setTimeout(() => {
+            processQuery(autoQuery);
+          }, 300);
+        }
+      } catch {}
+    }
+  }, []); // eslint-disable-line
 
   const processQuery = async (text: string) => {
     const userMsg = { id: Date.now().toString(), role: "user", content: text };
@@ -84,17 +98,24 @@ export default function ChatPage() {
   useEffect(() => {
     const lastMessage = messages[messages.length - 1];
     if (lastMessage?.role === "assistant") {
-      const match = lastMessage.content.match(/<profile>([\s\S]*?)<\/profile>/);
+      // Use a more inclusive regex for the profile tag
+      const match = lastMessage.content.match(/<profile>([\s\S]*?)<\/profile>/i);
       if (match && match[1]) {
         try {
-          const profileData = JSON.parse(match[1]);
+          const jsonStr = match[1].trim();
+          const profileData = JSON.parse(jsonStr);
+          
+          // Save to local storage for the results page
           localStorage.setItem("pathfinder_profile", JSON.stringify(profileData));
           
-          setTimeout(() => {
+          // Small delay for UI feedback before redirect
+          const timer = setTimeout(() => {
             router.push("/results");
-          }, 1500);
+          }, 1200);
+          
+          return () => clearTimeout(timer);
         } catch (e) {
-          console.error("Failed to parse profile JSON:", e);
+          console.warn("Found profile tag but JSON is incomplete/invalid yet:", e);
         }
       }
     }
@@ -106,7 +127,7 @@ export default function ChatPage() {
   };
 
   return (
-    <main className="min-h-screen bg-background flex flex-col items-center">
+    <main className="min-h-screen bg-background flex flex-col items-center pt-24">
       {/* Header */}
       <header className="w-full border-b border-border bg-card/50 backdrop-blur sticky top-0 z-10">
         <div className="max-w-3xl mx-auto p-4 flex items-center justify-between">
